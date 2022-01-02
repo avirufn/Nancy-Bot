@@ -1,1 +1,1 @@
-worker: make run
+worker: python -m alita
